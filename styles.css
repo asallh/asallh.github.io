@@ -78,6 +78,10 @@ main {
     margin-bottom: 16px;
 }
 
+.main-header{
+    text-align: center;
+}
+
 h3{
     font-family: 'Poppins', sans-serif;
 }
