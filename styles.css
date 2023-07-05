@@ -102,3 +102,14 @@ footer {
     max-width: 100%;
     height: auto;
 }
+
+a{
+  text-decoration: none;
+}
+
+
+.icons {
+  align-items: center;
+  margin: 32px;
+  width: 32px;
+}
