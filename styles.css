@@ -112,4 +112,10 @@ a{
   align-items: center;
   margin: 32px;
   width: 32px;
+  transition: opacity 250ms;
+  opacity: 0.2;
+}
+
+.icons:hover{
+  opacity: 1;
 }
