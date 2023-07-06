@@ -111,6 +111,10 @@ footer {
   padding: 16px;
 }
 
+#about-title{
+  text-decoration: underline;
+}
+
 a{
   text-decoration: none;
 }
