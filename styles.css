@@ -123,6 +123,10 @@ a{
   text-decoration: underline;
 }
 
+#projects{
+  margin-top: 16px;
+}
+
 .icons {
   align-items: center;
   margin: 32px;
