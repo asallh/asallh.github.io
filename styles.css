@@ -112,6 +112,10 @@ footer {
   padding: 16px;
 }
 
+#joke{
+  color:rgb(252, 163, 17) ;
+}
+
 #about-title{
   text-decoration: underline;
 }
