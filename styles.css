@@ -89,6 +89,7 @@ h3{
 
 p {
     font-family: 'Popins', sans-serif;
+    padding-top: 8px;
 }
 
 footer {
@@ -107,13 +108,16 @@ a{
   text-decoration: none;
 }
 
+#programming-languages{
+  text-decoration: underline;
+}
 
 .icons {
   align-items: center;
   margin: 32px;
   width: 32px;
-  transition: opacity 250ms;
-  opacity: 0.2;
+  transition: 250ms;
+  opacity: 0.4;
 }
 
 .icons:hover{
