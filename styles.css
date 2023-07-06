@@ -104,6 +104,13 @@ footer {
     height: auto;
 }
 
+#about{
+  /* background-color: rgb(229, 229, 229); */
+  border: #333 solid;
+  border-radius: 15px;
+  padding: 16px;
+}
+
 a{
   text-decoration: none;
 }
