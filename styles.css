@@ -128,16 +128,31 @@ a{
   text-decoration: underline;
 }
 
-#projects{
-  margin-top: 16px;
+.projects{
+  margin-top: 8px;
   border-bottom: #333 solid;
 }
 
+.project-list{
+  display: flex;
+}
+
+.project-item h3{
+  text-decoration: underline;
+}
 .project-item{
   background-color: rgb(229, 229, 229);
+  width:400px;
+  height: 320px;
   padding: 24px;
-  margin: 16px;
+  margin:8px;
   border-radius: 16px;
+  flex-direction: column;
+  overflow: scroll;
+}
+
+#emphasis{
+  font-weight: bold;
 }
 
 .icons {
