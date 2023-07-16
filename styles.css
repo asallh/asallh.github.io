@@ -170,6 +170,12 @@ a{
   font-weight: bold;
 }
 
+.contact-icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .icons {
   align-items: center;
   margin: 32px;
@@ -178,9 +184,10 @@ a{
   opacity: 0.4;
 }
 
-#contact{
-  margin-top: 16px;
-}
 .icons:hover{
   opacity: 1;
+}
+
+#contact{
+  margin-top: 16px;
 }
