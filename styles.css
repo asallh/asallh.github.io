@@ -60,7 +60,7 @@ header {
     background: rgb(252, 163, 17);
     display: block;
     margin: auto;
-    transition: 0.1s;
+    transition: 0.5s;
   }
   
   .nav-links ul li:hover::after {
@@ -187,7 +187,7 @@ a{
   margin: 32px;
   width: 32px;
   transition: 250ms;
-  opacity: 0.4;
+  opacity: 0.2;
 }
 
 .icons:hover{
